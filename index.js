@@ -1,7 +1,6 @@
 
 var height = document.getElementById("height_data").value;
 var weight = document.getElementById("weight_data").value;
-let gender = "female";
 let BMI = 0;
 let BmiCategory = " "
 let result = document.getElementById("result")
